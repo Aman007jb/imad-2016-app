@@ -1,6 +1,6 @@
 body {
-    font-family: sans-serif;
-    background-color: blue;
+    font-family: comic-sans;
+    background-color: black;
     margin-top: 125px;
 }
 
@@ -13,10 +13,11 @@ body {
 }
 
 .bold {
-    font-weight: normal;
+    font-weight: bold;
+    font color: white;
 }
 
 .img-medium {
-    height: 500px;
+    height: 250px;
 }
 
