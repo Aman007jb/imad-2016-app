@@ -14,7 +14,7 @@ app.get('/ui/style.css', function (req, res) {
 });
 
 app.get('/ui/madi.png', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'https://scontent.xx.fbcdn.net/v/t1.0-9/14203350_1821857064710171_6673148479751735088_n.jpg?oh=3a540811fde3446df2a946ac79c18088&oe=585FE784'));
+  res.sendFile(path.join(__dirname, 'ui', "https://static.independent.co.uk/s3fs-public/styles/article_large/public/thumbnails/image/2016/04/04/10/lionel-messi.jpg"));
 });
 
 
