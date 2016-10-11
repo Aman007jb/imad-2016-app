@@ -21,7 +21,13 @@ body {
 .img-medium {
     height: 250px;
 }
-.gif-medium {
-    height: 300px;
+.content {
+    text-align: center;
+    font-family: serif;
+    font-weight: normal;
+    color: wheat;
+    font-size: 100%;
+    background: black;
+    
     
 }
